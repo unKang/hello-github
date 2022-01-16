@@ -6,8 +6,8 @@ public class test {
 
 	public static void main(String[] args) {
 
-		// test1330();
-		// test10718();
+		test1330();
+		test10718();
 
 	}
 	
